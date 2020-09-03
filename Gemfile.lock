@@ -81,7 +81,7 @@ GEM
     faraday (0.13.1)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.18)
-    geocoder (1.4.4)
+    geocoder (1.6.1)
     globalid (0.4.0)
       activesupport (>= 4.2.0)
     google-api-client (0.13.4)
